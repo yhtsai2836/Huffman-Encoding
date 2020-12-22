@@ -1,8 +1,7 @@
 # Huffman Encoding
 
 **Directory structure**
-* **README.md** - content of the respository
-* **notebooks/** - Python code runs on PYNQ
-* **source/** - Source in HLS
-* **testbench/** - Testbench in HLS
-* **picture/** - input/output data
+* **README.md** - Content of the respository
+* **source/** - Source code in HLS
+* **testbench/** - Testbench and test data in HLS
+* **python/** - Python code runs on PYNQ
