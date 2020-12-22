@@ -1,4 +1,4 @@
-# Sobel Filter
+# Huffman Encoding
 
 **Directory structure**
 * **README.md** - content of the respository
