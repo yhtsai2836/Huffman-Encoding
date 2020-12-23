@@ -30,7 +30,7 @@ This project is about HLS on Huffman Encoding
 <!-- USAGE EXAMPLES -->
 ## Usage
 **fpga board setup**
-We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project
+* We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project
 
 **Directory structure**
 * **README.md** - Content of the respository
